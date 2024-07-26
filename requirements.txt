@@ -1,5 +1,5 @@
 streamlit
 pillow
-numpy==1.21.6  # Ensure this version matches chromadb's requirement
+numpy==1.23.5  # Update to a compatible numpy version
 tqdm
 chromadb==0.1.0
