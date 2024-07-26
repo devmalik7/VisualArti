@@ -1,0 +1,5 @@
+streamlit
+pillow
+numpy
+tqdm
+chromadb==0.1.0  # Specify a version that is known to work
