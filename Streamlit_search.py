@@ -3,6 +3,7 @@ import chromadb
 from chromadb.utils.embedding_functions import OpenCLIPEmbeddingFunction
 from chromadb.utils.data_loaders import ImageLoader
 import os
+pip install numpy==1.26.4
 
 db_path=r"C:\anuman\Khooj\image_vdb" # your db path
 
